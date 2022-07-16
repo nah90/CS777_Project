@@ -1,4 +1,4 @@
-#Tem Project
+#Term Project
 Spark History:
 
 https://2zed7a2pevamhpz3itnphgexgi-dot-us-central1.dataproc.googleusercontent.com/gateway/default/sparkhistory/history/application_1650857930129_0001/jobs/
