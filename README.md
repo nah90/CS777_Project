@@ -20,4 +20,5 @@ Noted that PySpark MLlib does not currently have capability for kernels in SVM- 
 Noted data error warnings in Google Cloud-referring to the Gram matrix. SVM with kernel trick is a very powerful learning tool, but is probably better utilized for smaller datasets. If implemented properly with distributed processing, however, it could be very powerful.
 
 Video Presentation:
+
 https://drive.google.com/file/d/1VPZ7ecEL4ioOFul2NJqVitNrp3vb0m9g/view?usp=sharing
