@@ -18,3 +18,5 @@ Implemented data transformations (up to higher dimensions) into model for Figure
 Was not able to fit data and model well with Polynomial kernel, but was able to with Gaussian kernel. Coded two ways to create the Gram matrix necessary  for Gaussian- one with use of sklearn's pairwise_functions capability.
 Noted that PySpark MLlib does not currently have capability for kernels in SVM- citing issues with distributed processing the kernel calculations as well as higher demand for other (at the time - 2019) missing/lacking machine learning algorithms in MLlib.
 Noted data error warnings in Google Cloud-referring to the Gram matrix. SVM with kernel trick is a very powerful learning tool, but is probably better utilized for smaller datasets. If implemented properly with distributed processing, however, it could be very powerful.
+
+<video src="https://drive.google.com/file/d/1VPZ7ecEL4ioOFul2NJqVitNrp3vb0m9g/view?usp=sharing"></video> 
